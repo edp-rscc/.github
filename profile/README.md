@@ -42,10 +42,10 @@ Kami terus melakukan inovasi digital dalam mendukung layanan rumah sakit, termas
 
 ## 📬 Kontak
 
-📍 Jl. Manggis No.6, Gempol, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta
-📧 Email: rscc_yogya@yahoo.co.id
-🌐 Website: [rs-condongcatur.com](https://rs-condongcatur.com)
-📱 Instagram: [@rscondongcatur](https://www.instagram.com/rscondongcatur/)  
+<p>📍 Jl. Manggis No.6, Gempol, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</p>
+<p>📧 Email: rscc_yogya@yahoo.co.id</p>
+<p>🌐 Website: [rs-condongcatur.com](https://rs-condongcatur.com)</p>
+<p>📱 Instagram: [@rscondongcatur](https://www.instagram.com/rscondongcatur/)</p>
 
 ---
 
